@@ -1,3 +1,11 @@
+.container{
+	width: 90%;
+	display: grid;
+	justify-content: center;
+	text-align: center;
+	margin-top: 4rem;
+}
+
 .grid {
 	display: flex;
 	flex-wrap: wrap;
